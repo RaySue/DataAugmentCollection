@@ -1,7 +1,9 @@
 # Data Augment
 
-## Classification 
+- Classification 
 
-## Segmentation
 
-## Detection
+- Segmentation
+
+
+- Detection
